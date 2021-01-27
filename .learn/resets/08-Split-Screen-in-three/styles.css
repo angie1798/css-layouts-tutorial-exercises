@@ -1,18 +1,12 @@
 body {
 	margin: 0;
 }
-div {
-	display: flex;
-}
 #sectionA {
 	background: blue;
-	flex: 33%;
 }
 #sectionB {
 	background: red;
-	flex: 33%;
 }
 #sectionC {
 	background: green;
-	flex: 33%;
 }
