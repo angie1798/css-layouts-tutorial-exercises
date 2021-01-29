@@ -1,41 +1,29 @@
-#div1,
-#div4 {
+#div1 {
 	background-color: red;
-	width: 31%;
+	width: 150px;
 	float: left;
 	height: 100px;
 	padding: 100px;
 	text-align: center;
 	border-radius: 50px;
-	flex: 50%;
 }
-#div2,
-#div3,
-#div5,
-#div6 {
+#div2 {
 	background-color: blue;
 	height: 100px;
-	width: 50%;
+	width: 150px;
 	padding: 25px;
 	color: white;
 	text-align: center;
+	overflow: hidden;
 	border-radius: 25px;
-	flex: 50%;
-	float: right;
 }
 #div3 {
 	background-color: yellow;
-}
-#div4 {
-	background-color: blue;
-}
-#div5 {
-	background-color: red;
-}
-#div6 {
-	background-color: black;
-}
-div {
-	display: flex;
-	display: block;
+	height: 100px;
+	width: 150px;
+	padding: 25px;
+	color: white;
+	text-align: center;
+	overflow: hidden;
+	border-radius: 25px;
 }

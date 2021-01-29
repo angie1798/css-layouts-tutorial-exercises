@@ -1,6 +1,10 @@
 {
     "port": 3000,
+<<<<<<< HEAD
     "address": "https://f7b155e9-9b59-417a-a5f1-0d5e3bd3697d.ws-us03.gitpod.io",
+=======
+    "address": "https://dc778f3f-3db8-4be3-9c1d-01d27c3719bf.ws-us03.gitpod.io",
+>>>>>>> 796780c86cb79b02678f35bd2684168e6d136099
     "editor": "gitpod",
     "configPath": {
         "config": "learn.json",
@@ -31,7 +35,11 @@
     "difficulty": "easy",
     "video-solutions": true,
     "graded": true,
+<<<<<<< HEAD
     "session": 8330557845599987000,
+=======
+    "session": 6005452405578375000,
+>>>>>>> 796780c86cb79b02678f35bd2684168e6d136099
     "exercises": [
         {
             "slug": "01-introduction",
