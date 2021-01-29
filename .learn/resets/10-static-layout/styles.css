@@ -35,14 +35,4 @@ header {
 nav,
 section {
 	padding: 100px 0;
-	height: 500px;
-	margin: 5px;
-}
-nav {
-	float: left;
-	width: 30%;
-}
-section {
-	float: right;
-	width: 68%;
 }
