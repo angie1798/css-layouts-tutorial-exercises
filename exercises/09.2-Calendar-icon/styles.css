@@ -60,6 +60,6 @@
 }
 .calendar em:after {
 	position: absolute;
-	right: 3px;
+	right: 2px;
 	bottom: 48px;
 }
